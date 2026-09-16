@@ -1,4 +1,4 @@
-package Test;
+package com.engineeringdigest.journalApp;
 
 
 import org.springframework.stereotype.Component;
